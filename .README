@@ -1,0 +1,9 @@
+# This is a Seeds Store mobile app, for customers to see which products are available.
+# The app has feature for users to select if they want to view the products as carousl or view as a list buy click on the toggle on the products page.
+
+# STEPS TO INSTALL AND RUN THE EXPO APP
+# clone the  App
+# AFTER cloning the app, run npm install the root directory.
+# After succesful installation of packages, run "npm run android". This will open up the expo and a working device to run the app.
+
+# You can also check out the screenshot folder for a full working pictures of the App.
